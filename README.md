@@ -1,6 +1,7 @@
 ### Hi  👋 I'm  Simeon 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines= Welcome+ to+ my+ github;Nigerian+Software+Developer;Ready+to+Learn; )](https://git.io/typing-svg)
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Welcome+to+my+github;Aspiring+Full-Stack+Developer;and+Technopreneur!;Nice+to+meet+you...)](https://git.io/typing-svg)
+
 
 
 Here are some ideas to get you started:
