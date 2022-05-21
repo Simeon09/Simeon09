@@ -13,4 +13,4 @@
 
 ⚡ Fun fact:Reading and coding
 
-[![Simeon GitHub stats](https://github-readme-stats.vercel.app/api?username=Simeon09)](https://github.com/anuraghazra/github-readme-stats)
+[![Simeon GitHub stats](https://github-readme-stats.vercel.app/api?username=Simeon09)](https://github.com/Simeon09/github-readme-stats)
